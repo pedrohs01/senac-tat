@@ -1,0 +1,15 @@
+|todos os comandos no linux são em minuculos.|
+---------------------------------------------------------------------------------------
+|sudo -> para iniciar comandos|
+|sudo apt update-> comando para atualizar o sistema|
+|limpar = ctr + L| |colar no terminal= ctr + shift + v|
+|sudo apt upgrade -> instalar a atualização|
+|sudo apt full-upgrade -> ele vai mais afundo na atualização|
+|sudo apt dist-upgrade ->atualização da distribuição|
+|sudo apt autoremove -> remove tudo que não e usado|
+|sudo apt autoclean -> faz a limpeza do sistema|
+|sudo reboot -> reniciar a maquina|
+|history -> vai mostrar o histórico de comando que a gente usou|
+|sudo apt install vim -> para instalar software|
+|Tecla |TAB| prenche o codigo|
+|sai ter = ctr + d|
